@@ -1,0 +1,4 @@
+com/example/tactoe/BuildConfig.java
+ com.example.tactoe.BuildConfig
+com/example/tactoe/MainActivity.java
+ com.example.tactoe.MainActivity

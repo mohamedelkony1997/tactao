@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\M ELKONY\\AndroidStudioProjects\\tactoe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar-rEG\\values-ar-rEG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\M ELKONY\\AndroidStudioProjects\\tactoe\\app\\src\\main\\res\\values-ar-rEG\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,102,154",
+                        "endColumns": "43,50,50",
+                        "endOffsets": "96,148,200"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,99,150",
+                        "endColumns": "43,50,50",
+                        "endOffsets": "94,145,196"
+                    }
+                }
+            ]
+        }
+    ]
+}
